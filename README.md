@@ -1,6 +1,6 @@
 # EY-Open-Science-AI-Data-Challenge
 
-Summary:
+Summary on major steps on this challenge:
 We read description of challenge
 We downloaded data provided on challenge and looked at the data
 Combined multiple datasets to enhance model performance
